@@ -1,18 +1,22 @@
 h1 {
   font-size: 50px;
   font-family: sans-serif;
+  font-stretch: expanded;
   text-align: center;
 }
 h2 {
   font-size: 30px;
   font-family: sans-serif;
+  font-stretch: expanded;
   text-align: center;
 }
 ul {
   align: center;
-  font-style: italic;
+  color: black;
   font-family: sans-serif;
 }
 body {
   text-align: center;
-  background-color: gray;
+  background-color: darkgray;
+  color: lightgray;
+}

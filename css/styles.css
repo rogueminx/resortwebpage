@@ -1,18 +1,21 @@
 h1 {
-  font-size: 50px;
-  font-family: sans-serif;
-  text-align: center;
+  font-size: 60px;
+  font-weight: bold;
+  font-family: cursive;
 }
 h2 {
-  font-size: 30px;
-  font-family: sans-serif;
-  text-align: center;
+  font-size: 40px;
+  font-family: cursive;
 }
 ul {
-  align: center;
-  font-style: italic;
-  font-family: sans-serif;
+  font-family: cursive;
+  font-size: 20px;
 }
 body {
-  text-align: center;
-  background-color: gray;
+  background-color: black;
+  color: red;
+}
+p {
+  font-size: 20px;
+  font-family: cursive;
+}
